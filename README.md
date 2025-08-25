@@ -25,23 +25,6 @@ Me chamo Angela Hennig, tenho 26 anos e sou natural de **Curitiba, PR**. Atualme
 
 <img 
     align="left" 
-    alt="Robot Framework" 
-    title="Robot Framework"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://robocorp.gallerycdn.vsassets.io/extensions/robocorp/robotframework-lsp/1.13.0/1727964717904/Microsoft.VisualStudio.Services.Icons.Default" 
-/>
-
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Confluence" 
     title="Confluence"
     width="30px" 
