@@ -1,4 +1,4 @@
-# Olá, eu sou a Angela Hennig!
+# Olá!
 <span>
   <strong><code>Analista de Testes e Qualidade de Software | Quality Assurance</code></strong>
   <img
